@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="466c980e">
+        <description>Created after removal of "About Main Instance" from Main Instance</description>
+        <accepts>main-instance.html</accepts>
+    </rule>
+    <rule id="390d5631">
+        <description><![CDATA[Created after removal of "<Laba1.md>" from Tech Instance]]></description>
+        <accepts>Laba1.html</accepts>
+    </rule>
+</rules>
